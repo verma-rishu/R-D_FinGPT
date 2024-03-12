@@ -47,9 +47,16 @@ Summary of the results from the notebooks in this repo:
   </tr>
 </table>
 
+Datasets (for inference) [[3]](https://arxiv.org/abs/2307.10485):
+- TFNS - Twitter Financial News Sentiment Validation (Twitter Val)
+- FPB - Financial PhraseBank
+- FiQA - Financial Question Answering
+- NGWI - News with GPT instructions
+  
 Papers referred:
 1. [FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
 2. [Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of General-Purpose Large Language Models](https://arxiv.org/abs/2306.12659)
+3. [FinGPT: Democratizing Internet-scale Data for Financial Large Language Models](https://arxiv.org/abs/2307.10485)
 
 Github references:
 -  [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
