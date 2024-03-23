@@ -46,7 +46,7 @@ Summary of the results from the notebooks in this repo:
     <td>0.688</td>
   </tr>
   <tr>
-    <td><a href="">FinGPT_ChatGLM2_6B</a></td>
+    <td><a href="https://github.com/verma-rishu/R-D_FinGPT/blob/main/FinGPT_Llama2_7B.ipynb">FinGPT_Llama2_7B</a></td>
     <td><a href="https://huggingface.co/meta-llama/Llama-2-7b-chat-hf">llama2-7b</td>
     <td>2</td>
     <td>Google Collab A100 GPU <small>(approx: 45-50 compute units for training ~ 10-11 for inference)</small> </td>
