@@ -59,6 +59,20 @@ Summary of the results from the notebooks in this repo:
     <td>0.441</td>
     <td>0.335</td>
   </tr>
+      <tr>
+    <td><a href="https://github.com/verma-rishu/R-D_FinGPT/blob/main/FinGPT_Llama2_13B.ipynb">FinGPT_Llama2_7B</a></td>
+    <td><a href="https://huggingface.co/NousResearch/Llama-2-13b-hf">llama2-13b</td>
+    <td>2</td>
+    <td>Google Collab A100 GPU <small>(approx: 85-90 compute units for training ~ 10-11 for inference)</small> </td>
+    <td>-</td>
+    <td>-</td>
+    <td>0.873</td>
+    <td>0.873</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
 </table>
 
 Datasets (for inference) [[3]](https://arxiv.org/abs/2307.10485):
