@@ -62,7 +62,7 @@ Summary of the results from the notebooks in this repo:
       <tr>
     <td><a href="https://github.com/verma-rishu/R-D_FinGPT/blob/main/FinGPT_Llama2_13B.ipynb">FinGPT_Llama2_7B</a></td>
     <td><a href="https://huggingface.co/NousResearch/Llama-2-13b-hf">llama2-13b</td>
-    <td>2</td>
+    <td>-</td>
     <td>Google Collab A100 GPU <small>(approx: 85-90 compute units for training ~ 10-11 for inference)</small> </td>
     <td>-</td>
     <td>-</td>
